@@ -207,7 +207,7 @@ body{
 	visibility: hidden;
 }
 } 
-@media screen and (min-width: 993px) and (max-width: 1100px) {
+@media screen and (min-width: 993px) {
  .side-bar{
 	position: fixed;
 	left: 0;
